@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Common1;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,15 +12,16 @@ namespace Common
     [ServiceContract(SessionMode = SessionMode.Required)]
     public interface IEcgService
     {
-        // Client sends meta data and opens session
+
         [OperationContract(IsInitiating = true)]
+        [FaultContract(typeof(ValidationFault))]
         void StartSession(SessionMeta meta);
 
-        // Client sends a sample
         [OperationContract(IsInitiating = false)]
+        [FaultContract(typeof(DataFormatFault))]
+        [FaultContract(typeof(ValidationFault))]
         void PushSample(EcgSample sample);
 
-        // Client signals end
         [OperationContract(IsInitiating = false, IsTerminating = true)]
         void EndSession();
     }
