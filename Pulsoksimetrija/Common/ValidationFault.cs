@@ -14,5 +14,3 @@ namespace Common1
         [DataMember] public string Parametar { get; set; }
     }
 }
-    }
-}

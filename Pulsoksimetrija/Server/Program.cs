@@ -17,15 +17,15 @@ namespace Server
                 {
                     host.Open();
                     Console.WriteLine("========================================");
-                    Console.WriteLine("              SERVER JE POKRENUT");
-                    Console.WriteLine("   Adresa: net.tcp://localhost:4000/EcgService");
+                    Console.WriteLine("             SERVER IS RUNNING");
+                    Console.WriteLine("   Address: net.tcp://localhost:4000/EcgService");
                     Console.WriteLine("========================================");
-                    Console.WriteLine("Pritisni [Enter] da ugasiš server...");
+                    Console.WriteLine("Press [Enter] to shut down the server...");
                     Console.ReadLine();
                 }
                 catch (Exception ex)
                 {
-                    Console.WriteLine($"Greška pri pokretanju: {ex.Message}");
+                    Console.WriteLine($"Error starting server: {ex.Message}");
                     Console.ReadLine();
                 }
             }
