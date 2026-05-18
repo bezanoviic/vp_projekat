@@ -15,9 +15,9 @@ namespace Common
         [OperationContract(IsInitiating = true)]
         void StartSession(SessionMeta meta);
 
-        // Client sends n rows in MemoryStream
+        // Client sends a sample
         [OperationContract(IsInitiating = false)]
-        void PushBatch(Stream batchStream);
+        void PushSample(EcgSample sample);
 
         // Client signals end
         [OperationContract(IsInitiating = false, IsTerminating = true)]
