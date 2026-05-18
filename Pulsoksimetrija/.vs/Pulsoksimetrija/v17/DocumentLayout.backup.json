@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "E:\\Faks\\GOD3\\VP\\Pulsoksimetrija\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{908102E3-7A9D-436D-AC41-D2170DB07CAC}|Common\\Common.csproj|e:\\faks\\god3\\vp\\pulsoksimetrija\\common\\validationfault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{908102E3-7A9D-436D-AC41-D2170DB07CAC}|Common\\Common.csproj|solutionrelative:common\\validationfault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F1A0550-89BB-4F9E-83E7-CAAF3B0AA9A1}|Client\\Client.csproj|e:\\faks\\god3\\vp\\pulsoksimetrija\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1A0550-89BB-4F9E-83E7-CAAF3B0AA9A1}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1A0550-89BB-4F9E-83E7-CAAF3B0AA9A1}|Client\\Client.csproj|e:\\faks\\god3\\vp\\pulsoksimetrija\\client\\csvparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1A0550-89BB-4F9E-83E7-CAAF3B0AA9A1}|Client\\Client.csproj|solutionrelative:client\\csvparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D40E49-1A5C-4595-AFD8-2AEC28F10E72}|Server\\Server.csproj|e:\\faks\\god3\\vp\\pulsoksimetrija\\server\\ecgservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D40E49-1A5C-4595-AFD8-2AEC28F10E72}|Server\\Server.csproj|solutionrelative:server\\ecgservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D40E49-1A5C-4595-AFD8-2AEC28F10E72}|Server\\Server.csproj|e:\\faks\\god3\\vp\\pulsoksimetrija\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D40E49-1A5C-4595-AFD8-2AEC28F10E72}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1D40E49-1A5C-4595-AFD8-2AEC28F10E72}|Server\\Server.csproj|e:\\faks\\god3\\vp\\pulsoksimetrija\\server\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{D1D40E49-1A5C-4595-AFD8-2AEC28F10E72}|Server\\Server.csproj|solutionrelative:server\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908102E3-7A9D-436D-AC41-D2170DB07CAC}|Common\\Common.csproj|e:\\faks\\god3\\vp\\pulsoksimetrija\\common\\validationfault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908102E3-7A9D-436D-AC41-D2170DB07CAC}|Common\\Common.csproj|solutionrelative:common\\validationfault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{908102E3-7A9D-436D-AC41-D2170DB07CAC}|Common\\Common.csproj|e:\\faks\\god3\\vp\\pulsoksimetrija\\common\\iecgservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{908102E3-7A9D-436D-AC41-D2170DB07CAC}|Common\\Common.csproj|E:\\Faks\\GOD3\\VP\\Pulsoksimetrija\\common\\ecgsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{908102E3-7A9D-436D-AC41-D2170DB07CAC}|Common\\Common.csproj|solutionrelative:common\\ecgsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1D40E49-1A5C-4595-AFD8-2AEC28F10E72}|Server\\Server.csproj|e:\\faks\\god3\\vp\\pulsoksimetrija\\server\\ecgservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1D40E49-1A5C-4595-AFD8-2AEC28F10E72}|Server\\Server.csproj|solutionrelative:server\\ecgservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1D40E49-1A5C-4595-AFD8-2AEC28F10E72}|Server\\Server.csproj|e:\\faks\\god3\\vp\\pulsoksimetrija\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1D40E49-1A5C-4595-AFD8-2AEC28F10E72}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1D40E49-1A5C-4595-AFD8-2AEC28F10E72}|Server\\Server.csproj|e:\\faks\\god3\\vp\\pulsoksimetrija\\server\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,6 +59,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Faks\\GOD3\\VP\\Pulsoksimetrija\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "E:\\Faks\\GOD3\\VP\\Pulsoksimetrija\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAmwEwAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T20:46:37.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CSVParser.cs",
+              "DocumentMoniker": "E:\\Faks\\GOD3\\VP\\Pulsoksimetrija\\Client\\CSVParser.cs",
+              "RelativeDocumentMoniker": "Client\\CSVParser.cs",
+              "ToolTip": "E:\\Faks\\GOD3\\VP\\Pulsoksimetrija\\Client\\CSVParser.cs",
+              "RelativeToolTip": "Client\\CSVParser.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T20:45:03.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ValidationFault.cs",
               "DocumentMoniker": "E:\\Faks\\GOD3\\VP\\Pulsoksimetrija\\Common\\ValidationFault.cs",
               "RelativeDocumentMoniker": "Common\\ValidationFault.cs",
@@ -63,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "DataFormatFault.cs",
               "DocumentMoniker": "E:\\Faks\\GOD3\\VP\\Pulsoksimetrija\\Common\\DataFormatFault.cs",
               "RelativeDocumentMoniker": "Common\\DataFormatFault.cs",
@@ -76,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "FileWriter.cs",
               "DocumentMoniker": "E:\\Faks\\GOD3\\VP\\Pulsoksimetrija\\Server\\FileWriter.cs",
               "RelativeDocumentMoniker": "Server\\FileWriter.cs",
@@ -89,33 +123,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Faks\\GOD3\\VP\\Pulsoksimetrija\\Server\\Program.cs",
               "RelativeDocumentMoniker": "Server\\Program.cs",
               "ToolTip": "E:\\Faks\\GOD3\\VP\\Pulsoksimetrija\\Server\\Program.cs",
               "RelativeToolTip": "Server\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBMAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBsAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-18T20:27:36.274Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "EcgService.cs",
               "DocumentMoniker": "E:\\Faks\\GOD3\\VP\\Pulsoksimetrija\\Server\\EcgService.cs",
               "RelativeDocumentMoniker": "Server\\EcgService.cs",
               "ToolTip": "E:\\Faks\\GOD3\\VP\\Pulsoksimetrija\\Server\\EcgService.cs",
               "RelativeToolTip": "Server\\EcgService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowEwAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-18T20:27:09.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "App.config",
               "DocumentMoniker": "E:\\Faks\\GOD3\\VP\\Pulsoksimetrija\\Server\\App.config",
               "RelativeDocumentMoniker": "Server\\App.config",
@@ -128,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "IEcgService.cs",
               "DocumentMoniker": "E:\\Faks\\GOD3\\VP\\Pulsoksimetrija\\Common\\IEcgService.cs",
               "RelativeDocumentMoniker": "Common\\IEcgService.cs",
@@ -141,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "EcgSample.cs",
               "DocumentMoniker": "E:\\Faks\\GOD3\\VP\\Pulsoksimetrija\\Common\\EcgSample.cs",
               "RelativeDocumentMoniker": "Common\\EcgSample.cs",
@@ -154,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "SessionMeta.cs",
               "DocumentMoniker": "E:\\Faks\\GOD3\\VP\\Pulsoksimetrija\\Common\\SessionMeta.cs",
               "RelativeDocumentMoniker": "Common\\SessionMeta.cs",
