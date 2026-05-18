@@ -8,3 +8,4 @@ E:\Faks\GOD3\VP\Pulsoksimetrija\Client\obj\Debug\Client.pdb
 E:\Faks\GOD3\VP\Pulsoksimetrija\Client\bin\Debug\Common1.dll
 E:\Faks\GOD3\VP\Pulsoksimetrija\Client\bin\Debug\Common1.pdb
 E:\Faks\GOD3\VP\Pulsoksimetrija\Client\obj\Debug\Client.csproj.Up2Date
+E:\Faks\GOD3\VP\Pulsoksimetrija\Client\obj\Debug\Client.exe.config
