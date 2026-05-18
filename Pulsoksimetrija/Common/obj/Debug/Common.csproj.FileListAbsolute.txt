@@ -1,0 +1,4 @@
+E:\Faks\GOD3\VP\Pulsoksimetrija\Client\bin\Debug\Common1.dll
+E:\Faks\GOD3\VP\Pulsoksimetrija\Client\bin\Debug\Common1.pdb
+E:\Faks\GOD3\VP\Pulsoksimetrija\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\Faks\GOD3\VP\Pulsoksimetrija\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache

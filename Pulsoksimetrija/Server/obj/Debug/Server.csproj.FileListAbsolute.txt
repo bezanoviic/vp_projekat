@@ -1,0 +1,10 @@
+E:\Faks\GOD3\VP\Pulsoksimetrija\Server\bin\Debug\Server.exe.config
+E:\Faks\GOD3\VP\Pulsoksimetrija\Server\bin\Debug\Server.exe
+E:\Faks\GOD3\VP\Pulsoksimetrija\Server\bin\Debug\Server.pdb
+E:\Faks\GOD3\VP\Pulsoksimetrija\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\Faks\GOD3\VP\Pulsoksimetrija\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Faks\GOD3\VP\Pulsoksimetrija\Server\obj\Debug\Server.exe
+E:\Faks\GOD3\VP\Pulsoksimetrija\Server\obj\Debug\Server.pdb
+E:\Faks\GOD3\VP\Pulsoksimetrija\Server\bin\Debug\Common1.dll
+E:\Faks\GOD3\VP\Pulsoksimetrija\Server\bin\Debug\Common1.pdb
+E:\Faks\GOD3\VP\Pulsoksimetrija\Server\obj\Debug\Server.csproj.Up2Date
